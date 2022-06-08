@@ -1,0 +1,8 @@
+E:\#1Programming\2022\patterns\Async_await\Async_await\bin\Debug\Async_await.exe.config
+E:\#1Programming\2022\patterns\Async_await\Async_await\bin\Debug\Async_await.exe
+E:\#1Programming\2022\patterns\Async_await\Async_await\bin\Debug\Async_await.pdb
+E:\#1Programming\2022\patterns\Async_await\Async_await\obj\Debug\Async_await.csproj.AssemblyReference.cache
+E:\#1Programming\2022\patterns\Async_await\Async_await\obj\Debug\Async_await.csproj.SuggestedBindingRedirects.cache
+E:\#1Programming\2022\patterns\Async_await\Async_await\obj\Debug\Async_await.csproj.CoreCompileInputs.cache
+E:\#1Programming\2022\patterns\Async_await\Async_await\obj\Debug\Async_await.exe
+E:\#1Programming\2022\patterns\Async_await\Async_await\obj\Debug\Async_await.pdb
